@@ -1,0 +1,419 @@
+{
+  "map_width": 720,
+  "map_height": 480,
+  "streets": [
+    "Maple",
+    "Birch",
+    "Cedar"
+  ],
+  "houses": [
+    {
+      "id": 1,
+      "address": "10 Maple Street",
+      "x": 72.5,
+      "y": 97.9,
+      "features": {
+        "area_sqft": 1226,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "age_years": 8,
+        "distance_km": 6.1,
+        "floor_number": 0,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 7.0
+      }
+    },
+    {
+      "id": 2,
+      "address": "12 Maple Street",
+      "x": 148.0,
+      "y": 88.9,
+      "features": {
+        "area_sqft": 1336,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "age_years": 3,
+        "distance_km": 0.8,
+        "floor_number": 2,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 6.7
+      }
+    },
+    {
+      "id": 3,
+      "address": "14 Maple Street",
+      "x": 236.0,
+      "y": 89.3,
+      "features": {
+        "area_sqft": 1107,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "age_years": 12,
+        "distance_km": 3.9,
+        "floor_number": 3,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 6.5
+      }
+    },
+    {
+      "id": 4,
+      "address": "16 Maple Street",
+      "x": 325.2,
+      "y": 83.1,
+      "features": {
+        "area_sqft": 1299,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "age_years": 12,
+        "distance_km": 6.2,
+        "floor_number": 3,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 6.7
+      }
+    },
+    {
+      "id": 5,
+      "address": "18 Maple Street",
+      "x": 408.9,
+      "y": 87.2,
+      "features": {
+        "area_sqft": 1693,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "age_years": 12,
+        "distance_km": 5.0,
+        "floor_number": 1,
+        "has_parking": 0,
+        "has_garden": 0,
+        "locality_score": 5.5
+      }
+    },
+    {
+      "id": 6,
+      "address": "20 Maple Street",
+      "x": 487.0,
+      "y": 93.5,
+      "features": {
+        "area_sqft": 1407,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "age_years": 7,
+        "distance_km": 10.9,
+        "floor_number": 1,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 7.5
+      }
+    },
+    {
+      "id": 7,
+      "address": "22 Maple Street",
+      "x": 574.6,
+      "y": 93.2,
+      "features": {
+        "area_sqft": 1306,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "age_years": 19,
+        "distance_km": 4.3,
+        "floor_number": 2,
+        "has_parking": 0,
+        "has_garden": 0,
+        "locality_score": 7.0
+      }
+    },
+    {
+      "id": 8,
+      "address": "24 Maple Street",
+      "x": 657.7,
+      "y": 92.8,
+      "features": {
+        "area_sqft": 848,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "age_years": 8,
+        "distance_km": 9.3,
+        "floor_number": 1,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 8.1
+      }
+    },
+    {
+      "id": 9,
+      "address": "10 Birch Street",
+      "x": 75.0,
+      "y": 230.5,
+      "features": {
+        "area_sqft": 769,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "age_years": 9,
+        "distance_km": 6.6,
+        "floor_number": 2,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 7.2
+      }
+    },
+    {
+      "id": 10,
+      "address": "12 Birch Street",
+      "x": 153.2,
+      "y": 245.3,
+      "features": {
+        "area_sqft": 1666,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "age_years": 4,
+        "distance_km": 6.0,
+        "floor_number": 0,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 8.0
+      }
+    },
+    {
+      "id": 11,
+      "address": "14 Birch Street",
+      "x": 226.0,
+      "y": 242.6,
+      "features": {
+        "area_sqft": 1084,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "age_years": 1,
+        "distance_km": 7.6,
+        "floor_number": 0,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 5.2
+      }
+    },
+    {
+      "id": 12,
+      "address": "16 Birch Street",
+      "x": 315.4,
+      "y": 235.4,
+      "features": {
+        "area_sqft": 658,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "age_years": 30,
+        "distance_km": 4.7,
+        "floor_number": 1,
+        "has_parking": 0,
+        "has_garden": 0,
+        "locality_score": 5.7
+      }
+    },
+    {
+      "id": 13,
+      "address": "18 Birch Street",
+      "x": 409.0,
+      "y": 238.2,
+      "features": {
+        "area_sqft": 1068,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "age_years": 27,
+        "distance_km": 11.4,
+        "floor_number": 3,
+        "has_parking": 0,
+        "has_garden": 1,
+        "locality_score": 6.5
+      }
+    },
+    {
+      "id": 14,
+      "address": "20 Birch Street",
+      "x": 480.9,
+      "y": 238.0,
+      "features": {
+        "area_sqft": 729,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "age_years": 33,
+        "distance_km": 2.2,
+        "floor_number": 0,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 4.3
+      }
+    },
+    {
+      "id": 15,
+      "address": "22 Birch Street",
+      "x": 570.3,
+      "y": 236.1,
+      "features": {
+        "area_sqft": 557,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "age_years": 11,
+        "distance_km": 3.1,
+        "floor_number": 2,
+        "has_parking": 0,
+        "has_garden": 1,
+        "locality_score": 4.7
+      }
+    },
+    {
+      "id": 16,
+      "address": "24 Birch Street",
+      "x": 642.3,
+      "y": 248.3,
+      "features": {
+        "area_sqft": 1481,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "age_years": 8,
+        "distance_km": 9.2,
+        "floor_number": 3,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 8.3
+      }
+    },
+    {
+      "id": 17,
+      "address": "10 Cedar Street",
+      "x": 63.8,
+      "y": 391.3,
+      "features": {
+        "area_sqft": 1096,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "age_years": 22,
+        "distance_km": 5.2,
+        "floor_number": 2,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 5.8
+      }
+    },
+    {
+      "id": 18,
+      "address": "12 Cedar Street",
+      "x": 155.1,
+      "y": 383.8,
+      "features": {
+        "area_sqft": 1737,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "age_years": 21,
+        "distance_km": 15.4,
+        "floor_number": 0,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 5.0
+      }
+    },
+    {
+      "id": 19,
+      "address": "14 Cedar Street",
+      "x": 238.2,
+      "y": 395.9,
+      "features": {
+        "area_sqft": 610,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "age_years": 14,
+        "distance_km": 4.8,
+        "floor_number": 1,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 5.0
+      }
+    },
+    {
+      "id": 20,
+      "address": "16 Cedar Street",
+      "x": 310.5,
+      "y": 393.2,
+      "features": {
+        "area_sqft": 1322,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "age_years": 4,
+        "distance_km": 2.4,
+        "floor_number": 3,
+        "has_parking": 0,
+        "has_garden": 0,
+        "locality_score": 7.0
+      }
+    },
+    {
+      "id": 21,
+      "address": "18 Cedar Street",
+      "x": 404.4,
+      "y": 384.3,
+      "features": {
+        "area_sqft": 723,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "age_years": 10,
+        "distance_km": 1.4,
+        "floor_number": 2,
+        "has_parking": 1,
+        "has_garden": 0,
+        "locality_score": 6.1
+      }
+    },
+    {
+      "id": 22,
+      "address": "20 Cedar Street",
+      "x": 490.9,
+      "y": 387.5,
+      "features": {
+        "area_sqft": 359,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "age_years": 1,
+        "distance_km": 3.3,
+        "floor_number": 2,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 4.7
+      }
+    },
+    {
+      "id": 23,
+      "address": "22 Cedar Street",
+      "x": 563.1,
+      "y": 381.6,
+      "features": {
+        "area_sqft": 1420,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "age_years": 11,
+        "distance_km": 10.3,
+        "floor_number": 2,
+        "has_parking": 1,
+        "has_garden": 1,
+        "locality_score": 5.5
+      }
+    },
+    {
+      "id": 24,
+      "address": "24 Cedar Street",
+      "x": 643.7,
+      "y": 388.7,
+      "features": {
+        "area_sqft": 1288,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "age_years": 3,
+        "distance_km": 15.2,
+        "floor_number": 1,
+        "has_parking": 0,
+        "has_garden": 1,
+        "locality_score": 2.6
+      }
+    }
+  ]
+}
