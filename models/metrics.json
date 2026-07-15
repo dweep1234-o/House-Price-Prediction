@@ -1,0 +1,27 @@
+{
+  "served_model": "linear_regression",
+  "results": {
+    "linear_regression": {
+      "mae": 11581.12,
+      "rmse": 14741.67,
+      "r2": 0.9588
+    },
+    "random_forest_comparison": {
+      "mae": 16059.39,
+      "rmse": 19721.85,
+      "r2": 0.9263
+    }
+  },
+  "intercept": 48061.6,
+  "coefficients": {
+    "area_sqft": 117.75,
+    "bedrooms": 7913.59,
+    "bathrooms": 7466.79,
+    "age_years": -930.8,
+    "distance_km": -2144.3,
+    "floor_number": 656.32,
+    "has_parking": 10052.52,
+    "has_garden": 8613.93,
+    "locality_score": 13776.48
+  }
+}
